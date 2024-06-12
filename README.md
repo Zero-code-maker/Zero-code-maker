@@ -25,5 +25,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zero-code-maker &show_icons=true&theme=dark&locale=en&layout=compact" alt="zero-code-maker" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zero-code-maker &show_icons=true&theme=dark&locale=en&layout=compact" alt="zero-code-maker" />
 </div>

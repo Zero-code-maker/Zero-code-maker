@@ -3,7 +3,7 @@
 
 - 👨‍💻 Desenvolvimento Backend
 - 📄 Conhecimento em: React, FastAPI, React Native, Python, Flask, MongoDB, PostgreSQL,Sqlite
-- 📫 Email: rikerdaves.alencar@gmail.com
+- 📫 Email: rikerdaves.alencar@hotmail.com
 
 <div align="center">
   <h3> Linguagens e ferramentas:</h3>

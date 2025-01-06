@@ -2,7 +2,7 @@
 <h3 align="center">“We become who we are meant to be”</h3>
 
 - 👨‍💻 Desenvolvimento Backend
-- 📄 Conhecimento em: React, FastAPI, React Native, Python, Flask, MongoDB, PostgreSQL,Sqlite
+- 📄 Conhecimento em: React, FastAPI, Python, MongoDB, PostgreSQL, Sqlite
 - 📫 Email: rikerdaves.alencar@hotmail.com
 
 <div align="center">
